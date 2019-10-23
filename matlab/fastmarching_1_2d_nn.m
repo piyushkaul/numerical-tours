@@ -70,7 +70,7 @@ h = plot(x0(2),x0(1), '.r'); set(h, 'MarkerSize', 25);
 h = plot(x1(2),x1(1), '.b'); set(h, 'MarkerSize', 25);
 colorbar
 
-exo1()
+exo1_nn()
 
 %% Insert your code here.
 
@@ -129,7 +129,7 @@ axis ij;
 
 %% Insert your code here.
 
-exo4()
+exo4_nn()
 
 %% Insert your code here.
 
